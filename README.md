@@ -7,3 +7,7 @@ Simple functions to convert between a streams of UTF-8 bytes and UTF-8 code poin
 `Utf8b2cs` converts bytes to code points, multiple bytes at a time.
 
 `Utf8c2b` converts code points to bytes, one code point at a time.
+
+***
+
+© 2022 Darius J Chuck
