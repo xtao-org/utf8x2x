@@ -1,4 +1,4 @@
-export const Utf8b2cs = (next) => {
+export const Utf8bs2c = (next) => {
   const {codePoint} = next
 
   let partialCodePoint = 0
