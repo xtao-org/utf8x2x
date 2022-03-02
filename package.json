@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "utf8x2x",
+  "version": "0.2.2",
+  "main": "mod.js",
+  "private": true,
+  "devDependencies": {},
+  "scripts": {
+    "test": "deno test --allow-read"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtao-org/utf8x2x.git"
+  },
+  "author": "Darius J Chuck",
+  "license": "MIT"
+}

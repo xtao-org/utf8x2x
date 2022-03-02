@@ -10,6 +10,20 @@ Simple functions to convert between a streams of UTF-8 bytes and UTF-8 code poin
 
 `Utf8c2bs` converts code points to bytes, taking in  one code point at a time, emitting multiple bytes at a time.
 
+# Installation
+
+## Deno and browser
+
+```js
+import {Utf8bs2c} from 'https://cdn.jsdelivr.net/gh/xtao-org/utf8x2x@v0.2.2/mod.js'
+```
+
+## Node.js
+
+```
+npm install xtao-org/utf8x2x#semver:0.2.2
+```
+
 ***
 
 © 2022 Darius J Chuck
